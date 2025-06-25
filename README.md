@@ -1,1 +1,4 @@
 # Tim-Berners-Lee-HTML-scientist- This is a simple HTML webpage created as part of my learning journey. The page highlights the contributions of *Tim Berners-Lee, the inventor of the World Wide Web and one of the pioneers of the internet.This project is my first step into HTML coding. I created a webpage that includes headings, paragraphs, and basic formatting to describe the life and work of Tim Berners-Lee.  I started learning HTML recently and wanted to try building a basic webpage on my own. I chose Tim Berners-Lee as the subject because of his major role in web history. Technologies Used - HTML,VS code,GitHub.
+![image](https://github.com/user-attachments/assets/430f23fe-9fd0-4b5d-8772-a39d4d9520ac)
+![image](https://github.com/user-attachments/assets/66bb5e54-0a1b-4db4-b228-7276dfe595a3)
+
